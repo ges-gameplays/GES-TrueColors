@@ -20,18 +20,18 @@ Installation Instructions
 
 Add the Following Files to Your Server's Download List
 
-• gesource\materials\VGUI\hud\gameplayhelp\tc_info.vmt
+materials\VGUI\hud\gameplayhelp\tc_info.vmt
   
-• gesource\materials\VGUI\hud\gameplayhelp\tc_info.vtf
+materials\VGUI\hud\gameplayhelp\tc_info.vtf
   
-• gesource\materials\sprites\hud\radar\star.vmt
+materials\sprites\hud\radar\star.vmt
   
-• gesource\materials\sprites\hud\radar\star.vtf
+materials\sprites\hud\radar\star.vtf
   
-• gesource\materials\sprites\hud\radar\star_above.vmt
+materials\sprites\hud\radar\star_above.vmt
   
-• gesource\materials\sprites\hud\radar\star_above.vtf
+materials\sprites\hud\radar\star_above.vtf
   
-• gesource\materials\sprites\hud\radar\star_below.vmt
+materials\sprites\hud\radar\star_below.vmt
   
-• gesource\materials\sprites\hud\radar\star_below.vtf
+materials\sprites\hud\radar\star_below.vtf
