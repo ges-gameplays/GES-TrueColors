@@ -4,7 +4,7 @@ A repository for the GoldenEye: Source gameplay "True Colors" and its supporting
 
 ---
 
-**Installation Instructions
+**Installation Instructions**
 
 • Navigate to Program Files\Steam\SteamApps\SourceMods\gesource
 
@@ -18,7 +18,7 @@ A repository for the GoldenEye: Source gameplay "True Colors" and its supporting
 
 ---
 
-**Add the Following Files to Your Server's Download List
+**Add the Following Files to Your Server's Download List**
 
 materials\VGUI\hud\gameplayhelp\tc_info.vmt
   
