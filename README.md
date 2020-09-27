@@ -14,6 +14,6 @@ Installation Instructions
 
 • The gameplays are now installed
 
-• Launch a gameplay by typing "ge_gameplay "truecolors" into the server console
+• Launch a gameplay by typing "ge_gameplay truecolors" into the server console
 
 ---
