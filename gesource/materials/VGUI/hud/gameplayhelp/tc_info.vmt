@@ -1,0 +1,7 @@
+"UnlitGeneric"
+{
+	"$basetexture" "vgui/hud/gameplayhelp/tc_info"
+	"$ignorez"	"1"
+	"$translucent" "1"
+	"$vertexalpha" "1"
+}
