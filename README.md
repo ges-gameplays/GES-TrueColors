@@ -12,7 +12,7 @@ A repository for the GoldenEye: Source gameplay "True Colors" and its supporting
 
 • When prompted, agree to merge folders
 
-• The gameplays are now installed
+• The game mode is now installed
 
 • Launch a gameplay by typing "ge_gameplay truecolors" into the server console
 
